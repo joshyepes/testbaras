@@ -5,7 +5,7 @@ import reportWebVitals from './reportWebVitals';
 
 const Deff = React.lazy(()=> import('./App'));
 
-const root = ReactDOM.createRoot(document.getElementById('urrx'));
+const root = ReactDOM.createRoot(document.getElementById('barasgeorge'));
 root.render(
   <React.StrictMode>
     <Deff />
